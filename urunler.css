@@ -1,52 +1,64 @@
 #body {
     background-color: palevioletred; 
-    
+    position: relative;
+    top: 250px;
+    left: 118px;
 }
-
 
 #header {
     color: wheat;
-    font-size: 25px;
+    background-color: palevioletred;
+    font-size: 18px;
     font-family:'Courier New', Courier, monospace;
     position: fixed;
     top: 40px;
-    right: 625px;
+    right: 570px;
 }
 
-.urunler {
+.anasayfa {
+    background-color: palevioletred;
     font-size: 25px;
     font-family:'Courier New', Courier, monospace;
     position: fixed;
     top: 100px;
-    right: 700px;
+    right: 800px;
 }
 
-.iletisim {
+.iletisim {  
+    background-color: palevioletred;
     font-size: 25px;
     font-family:'Courier New', Courier, monospace;
     position: fixed;
     top: 100px;
-    right: 500px;
+    right: 490px;
 }
 
+.h6 {
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: wheat;
+}
 
+/*
 #pantolon1 {
     position: fixed;
-    top: 250px;
-    right: 1100px;
-    height: 200px;
+    top: 220px;
+    right: 1000px;
+    width: 300px;
+    height: 500px;
 }
 
 #pantolon2 {
     position: fixed;
-    top: 250px;
-    right: 925px;
-    height: 200px;
+    top: 220px;
+    right: 600px;
+    width: 300px;
+    height: 500px;
 }
 
 #gomlek1 {
     position: fixed;
-    top: 250px;
+    top: 500px;
     right: 740px;
     height: 200px;
 }
@@ -70,4 +82,4 @@
     top: 250px;
     right: 200px;
     height: 200px;
-}
+} 
