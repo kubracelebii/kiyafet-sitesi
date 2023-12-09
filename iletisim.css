@@ -1,0 +1,36 @@
+#body {
+    background-color: palevioletred; 
+}
+
+#header {
+    color: wheat;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    position: fixed;
+    top: 40px;
+    right: 625px;
+}
+
+.anasayfa {
+    background-color: palevioletred;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    position: fixed;
+    top: 100px;
+    right: 800px;
+}
+
+.urunler {  
+    background-color: palevioletred;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    position: fixed;
+    top: 100px;
+    right: 490px;
+}
+
+#article {
+    position: fixed;
+    top: 250px;
+    right: 650px;
+}
