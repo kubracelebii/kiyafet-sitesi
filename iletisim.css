@@ -12,7 +12,7 @@
 }
 
 .anasayfa {
-    background-color: palevioletred;
+    
     font-size: 25px;
     font-family:'Courier New', Courier, monospace;
     position: fixed;
@@ -21,7 +21,7 @@
 }
 
 .urunler {  
-    background-color: palevioletred;
+    
     font-size: 25px;
     font-family:'Courier New', Courier, monospace;
     position: fixed;
