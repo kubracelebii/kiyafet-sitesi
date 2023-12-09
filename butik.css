@@ -1,0 +1,73 @@
+#body {
+    background-color: palevioletred; 
+    
+}
+
+
+#header {
+    color: wheat;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    position: fixed;
+    top: 40px;
+    right: 625px;
+}
+
+.urunler {
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    position: fixed;
+    top: 100px;
+    right: 700px;
+}
+
+.iletisim {
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    position: fixed;
+    top: 100px;
+    right: 500px;
+}
+
+
+#pantolon1 {
+    position: fixed;
+    top: 250px;
+    right: 1100px;
+    height: 200px;
+}
+
+#pantolon2 {
+    position: fixed;
+    top: 250px;
+    right: 925px;
+    height: 200px;
+}
+
+#gomlek1 {
+    position: fixed;
+    top: 250px;
+    right: 740px;
+    height: 200px;
+}
+
+#gomlek2 {
+    position: fixed;
+    top: 250px;
+    right: 550px;
+    height: 200px;
+}
+
+#ayakkabi1 {
+    position: fixed;
+    top: 250px;
+    right: 375px;
+    height: 200px;
+}
+
+#ayakkabi2 {
+    position: fixed;
+    top: 250px;
+    right: 200px;
+    height: 200px;
+}
